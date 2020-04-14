@@ -1,5 +1,7 @@
 # NextJS + TypeScript Boilerplace
 
+Supporting next-i18next and SSR
+
 ### Installing
 
 ```
@@ -39,7 +41,7 @@ or
 $ npm run start
 ```
 
-## Built With
+## Built With ❤️
 
 * [Nextjs](https://nextjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
