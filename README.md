@@ -1,1 +1,1 @@
-# nextjs-mobx-typescript-boilerplate
+BUGECE Web Frontend Trigger
