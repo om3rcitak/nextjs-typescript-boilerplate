@@ -9,11 +9,14 @@ export class Home extends React.Component<Props> {
     static getInitialProps = async () => ({
         namespacesRequired: ['common']
     });
+
     render() {
+        const {props} = this;
+        const {t} = props;
         return (
             <Fragment>
                 <h1>
-                    Nextjs Boilerplate {this.props.t('title')}
+                    Nextjs Boilerplate {t('title')}
                 </h1>
             </Fragment>
         );
