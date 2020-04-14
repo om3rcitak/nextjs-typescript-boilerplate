@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "nodemon",
     "build": "next build && tsc --project tsconfig.server.json",
-    "start": "NODE_ENV=production node dist/server/index.js",
+    "start": "NODE_ENV=production node dist/server/index.js"
   },
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.5.5",
